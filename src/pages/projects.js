@@ -1,10 +1,10 @@
 import Head from 'next/head'
 import React from 'react'
 import Layout from './components/Layout'
-import AnimatedText from './components/AnimatedText'
+import AnimatedText from '../components/AnimatedText'
 import Link from 'next/link'
 import Image from 'next/image'
-import { GithubIcon } from './components/Icon'
+import { GithubIcon } from '../components/Icon'
 import project1 from '../../public/assets/images/projects/dishub-situbondo.jpg'
 import project2 from '../../public/assets/images/projects/kang-anime.png'
 import project3 from '../../public/assets/images/projects/kedai-kopi.png'
@@ -29,7 +29,7 @@ const FeaturedProject = ({ type, title, summary, img, link, github }) => {
             <div className='w-1/2 flex flex-col items-start justify-between pl-6 lg:w-full lg:pl-0 lg:pt-6'>
                 <span className='text-primary font-medium text-xl dark:text-primaryDark xs:text-base lg:text-lg md:text-base'>{type}</span>
                 <Link href={link} target={'_blank'} className='hover:underline underline-offset-2'>
-                    <h2 className='my-2 w-full text-left text-4xl font-bold dark:text-light sm:text-sm '>{title}</h2>
+                    <h2 className='my-2 w-full text-left text-4xl font-bold lg:text-3xl xs:text-2xl'>{title}</h2>
                 </Link>
                 <p className='my-2 font-medium text-dark dark:text-light sm:text-sm'>{summary}</p>
                 <div className='mt-2 flex items-center'>

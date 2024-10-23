@@ -2,10 +2,10 @@ import Head from 'next/head';
 import Layout from './components/Layout';
 import Image from 'next/image';
 import profilPicture from '../../public/assets/images/profile/aji.png'
-import AnimatedText from './components/AnimatedText';
+import AnimatedText from '../components/AnimatedText';
 import Link from 'next/link';
 import HireMe from './components/HireMe';
-import { LinkArrow } from './components/Icon';
+import { LinkArrow } from '../components/Icon';
 import lightBulb from '../../public/assets/images/svgs/miscellaneous_icons_1.svg'
 import TransitionEffect from '@/components/TransitionEffect';
 
