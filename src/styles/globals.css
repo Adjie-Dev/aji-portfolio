@@ -6,3 +6,11 @@
 :root {
     --font-mont: 'Montserrat', sans-serif;
 }
+
+.bg-onePiece {
+  background-image: url('/assets/images/onepiece.jpg'); /* langsung dari root public */
+}
+
+.bg-op {
+  background-image: url('/assets/images/op.jpg'); /* langsung dari root public */
+}
