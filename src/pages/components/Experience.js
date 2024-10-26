@@ -44,7 +44,7 @@ const Experience = () => {
                 <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
                     <Details
                         position={"Web Developer"}
-                        company={"Freelance"}
+                        company={"@Freelance"}
                         companyLink={"https://fivver.com"}
                         time={"2023-2024"}
                         address={"Denpasar, Indonesia"}
@@ -55,7 +55,7 @@ const Experience = () => {
 
                     <Details
                         position={"Front-end Developer"}
-                        company={"Hooxie.id"}
+                        company={"@Hooxie.id"}
                         companyLink={"https://www.linkedin.com/company/hooxieid"}
                         time={"2024-right now"}
                         address={"Batu. Malang, Indonesia"}
