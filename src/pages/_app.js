@@ -5,6 +5,7 @@ import Navbar from './components/NavBar'
 import Footer from './components/Footer'
 import { AnimatePresence } from 'framer-motion'
 import { useRouter } from 'next/router'
+import ScrollToTop from './components/ScrollToTop '
 
 const montserrat = Montserrat({
   subsets: ["latin"],
@@ -27,6 +28,7 @@ export default function App({ Component, pageProps }) {
           <Component key={router.asPath} {...pageProps} />
         </AnimatePresence>
         <Footer />
+        <ScrollToTop />
       </main>
     </>
   )

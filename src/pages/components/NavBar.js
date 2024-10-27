@@ -45,8 +45,8 @@ const Navbar = () => {
     }
 
     return (
-        <section className="w-full px-8 lg:px-32 py-8 font-medium flex items-center justify-between dark:text-light relative z-10">
-            <button className='flex-col justify-center items-center hidden lg:flex fixed left-8 top-8 z-50 lg:px-16 md:px-12 sm:px-8' onClick={handleClick}>
+        <section className="w-full flex items-center justify-between px-32 py-8 font-medium z-10 dark:text-light lg:px-16 relative z-1 md:px-12 sm:px-8 ">
+            <button className=' flex-col items-center justify-center hidden lg:flex' onClick={handleClick}>
                 <span className={`bg-dark dark:bg-light transition-all ease-out block h-0.5 w-6 rounded-sm ${isOpen ? 'rotate-45 translate-y-1' : '-translate-y-0.5'}`}></span>
                 <span className={`bg-dark dark:bg-light transition-all ease-out block h-0.5 w-6 rounded-sm my-0.5 ${isOpen ? 'opacity-0' : 'opacity-100'}`}></span>
                 <span className={`bg-dark dark:bg-light transition-all ease-out block h-0.5 w-6 rounded-sm ${isOpen ? '-rotate-45 -translate-y-1' : 'translate-y-0.5'}`}></span>
