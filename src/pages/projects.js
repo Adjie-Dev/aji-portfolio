@@ -121,8 +121,8 @@ const projects = () => {
                                 title="Harvest Abadi"
                                 img={project4}
                                 summary="Company profile website featuring services, offerings, and an employee dashboard. Includes dark mode and light mode for better user experience."
-                                link="/"
-                                github="/"
+                                link="https://harvestabadi.com/"
+                                github="https://github.com/WahyuAji11/fe-harvestabadi.git"
                                 type="Featured Projects"
                             />
                         </div>
