@@ -10,7 +10,7 @@ import project2 from '../../public/assets/images/projects/kang-anime.png'
 import project3 from '../../public/assets/images/projects/kedai-kopi.png'
 import project4 from '../../public/assets/images/projects/harvest-abadi.jpg'
 import project5 from '../../public/assets/images/projects/ollshop.png'
-import project6 from '../../public/assets/images/projects/portfolio-web.jpg'
+import project6 from '../../public/assets/images/projects/Kamus.png'
 import TransitionEffect from '@/components/TransitionEffect'
 
 const FeaturedProject = ({ type, title, summary, img, link, github }) => {
@@ -137,10 +137,10 @@ const projects = () => {
                         </div>
                         <div className='col-span-6 sm:col-span-12'>
                             <Project
-                                title="Website Portfolio"
+                                title="IndoPali Dictionary"
                                 img={project6}
-                                link="https://my-portfolio-wahyuaji.vercel.app/"
-                                github="https://github.com/WahyuAji11/myPortfolio"
+                                link="https://drive.google.com/file/d/1PYhJtJPuDy3pO31Mwm6gpd0OsUb8wPJj/view?usp=drive_link"
+                                github="https://github.com/WahyuAji11/KamusPaliIndonesia.git"
                                 type="Featured Projects"
                             />
                         </div>
