@@ -128,8 +128,9 @@ export default function About() {
             <h3 className="text-xl font-semibold mb-2">Web Developer</h3>
             <p className="text-primary mb-2">Freelance • 2023 - Present</p>
             <ul className="text-secondary list-disc list-inside space-y-2">
-              <li>Led development of multiple web applications using React, Next.js, and Laravel</li>
-              <li>Implemented CI/CD pipelines reducing deployment time by 50%</li>
+              <li>Led development of multiple web applications using React.js, react native, Next.js, and Laravel</li>
+              <li>Worked closely with a team to identify and fix bugs and issues in client websites and applications</li>
+              <li>Assisted clients in troubleshooting and resolving issues in their websites or applications</li>
             </ul>
           </motion.div>
           <motion.div
@@ -140,7 +141,10 @@ export default function About() {
             <h3 className="text-xl font-semibold mb-2">Front-End Developer</h3>
             <p className="text-primary mb-2">Hoxxie.id • 2024 - Present</p>
             <ul className="text-secondary list-disc list-inside space-y-2">
-              <li>Led development of multiple web applications using React and Node.js</li>
+              <li>Led development of multiple web applications using React, Next.js, and Laravel</li>
+              <li>Developed websites and applications based on client requirements, from planning to deployment</li>
+              <li>Assisted clients in troubleshooting and resolving issues in their websites or applications</li>
+              <li>Continued and improved existing client projects by enhancing both design and performance</li>
             </ul>
           </motion.div>
 

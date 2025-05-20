@@ -12,7 +12,7 @@ export default function Newsletter() {
     const subject = "Newsletter Subscription";
     const body = `Please subscribe ${email} to the newsletter.`;
 
-    window.location.href = `mailto:adjiee.dev@email.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    window.location.href = `mailto:adjiee.dev@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   };
 
   return (

@@ -29,7 +29,7 @@ export const projects: Project[] = [
       {
         title: 'Kedai kopi',
         description: 'Kelingan Mantan – Coffee Shop Website A simple website built for a coffee shop named Kelingan Mantan, featuring basic pages like Home, Menu, and Contact. Developed using HTML, CSS, and JavaScript with smooth navigation, responsive layout, and interactive elements to enhance user experience.',
-        technologies: ['React', 'Edamam API'],
+        technologies: ['HTML', 'CSS', 'JavaScript'],
         githubLink: 'https://github.com/WahyuAji11/coffe-shop',
         demoLink: 'https://wahyuaji11.github.io/coffe-shop/',
         image: '/projects/kedai-kopi.png',
