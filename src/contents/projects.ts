@@ -19,12 +19,12 @@ export const projects: Project[] = [
         image: '/projects/harvest-abadi.jpg',
       },
       {
-        title: 'IndoPali Dictionary',
-        description: 'Indonesian–Pali Dictionary App I developed a digital Indonesian–Pali dictionary to support Indonesian monks and Pali learners. The app features fast word lookup, a clean interface, and reliable references based on Buddhist texts. This project was a personal contribution, offered freely to the Sangha, with the aim of making Pali more accessible for Dhamma study and daily use.',
+        title: 'Buddhayana App',
+        description: 'A mobile Buddhist spiritual practice application built with React Native and NativeWind. Features morning puja, evening puja, and meditation modules with audio guidance to help Buddhist practitioners perform daily worship easily. The app is designed with a clean and user-friendly interface to support everyday religious practices.',
         technologies: ['React native', 'Tailwind CSS'],
-        githubLink: 'https://github.com/WahyuAji11/KamusPaliIndonesia.git',
-        demoLink: 'https://drive.google.com/file/d/1PYhJtJPuDy3pO31Mwm6gpd0OsUb8wPJj/view?usp=drive_link',
-        image: '/projects/Kamus.png',
+        githubLink: 'https://github.com/Adjie-Dev/buddhayanaApp.git',
+        demoLink: 'https://expo.dev/accounts/wahyuaji/projects/buddhayana-app/builds/b609078c-9a99-40d6-afab-f63213879570',
+        image: '/projects/buddhayana-digital.jpg',
       },
       {
         title: 'Kedai kopi',
@@ -41,5 +41,13 @@ export const projects: Project[] = [
         githubLink: 'https://github.com/Adjie-Dev/myPortfolio.git',
         demoLink: 'https://my-portfolio-aji-ps-projects.vercel.app/',
         image: '/projects/portfolio-web.jpg',
+      },
+      {
+        title: 'IndoPali Dictionary',
+        description: 'Indonesian–Pali Dictionary App I developed a digital Indonesian–Pali dictionary to support Indonesian monks and Pali learners. The app features fast word lookup, a clean interface, and reliable references based on Buddhist texts. This project was a personal contribution, offered freely to the Sangha, with the aim of making Pali more accessible for Dhamma study and daily use.',
+        technologies: ['React native', 'Tailwind CSS'],
+        githubLink: 'https://github.com/WahyuAji11/KamusPaliIndonesia.git',
+        demoLink: 'https://drive.google.com/file/d/1PYhJtJPuDy3pO31Mwm6gpd0OsUb8wPJj/view?usp=drive_link',
+        image: '/projects/Kamus.png',
       },
   ];
