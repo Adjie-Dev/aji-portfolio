@@ -139,7 +139,7 @@ export default function About() {
             {...cardHoverSmall}
           >
             <h3 className="text-xl font-semibold mb-2">Front-End Developer</h3>
-            <p className="text-primary mb-2">Hoxxie.id • 2024 - Present</p>
+            <p className="text-primary mb-2">Hoxxie.id • 2024 - 2025</p>
             <ul className="text-secondary list-disc list-inside space-y-2">
               <li>Led development of multiple web applications using React, Next.js, and Laravel</li>
               <li>Developed websites and applications based on client requirements, from planning to deployment</li>
@@ -153,11 +153,17 @@ export default function About() {
             variants={fadeInUp}
             {...cardHoverSmall}
           >
-            <h3 className="text-xl font-semibold mb-2">Personal Trainer</h3>
-            <p className="text-primary mb-2">Freelance • 2023 - 2024</p>
+            <h3 className="text-xl font-semibold mb-2">Assistant Leader Liaison Officer</h3>
+              <p className="text-primary mb-2">Dream Catchers EO • Freelance</p>
             <ul className="text-secondary list-disc list-inside space-y-2">
-              <li>Helping clients achieve their goals.</li>
-              <li>Helping client with scoliosis.</li>
+              <li>Coordinating airport pickup for the full supporting band team.</li>
+              <li>Handling hotel to venue transportation for all artists and crew, including the main artist.</li>
+              <li>Escorting the main artist from hotel arrival to holding room, from holding room to stage, and back after performance.</li>
+              <li>Providing real time updates to the field team during artist transit to ensure all areas are ready on arrival.</li>
+              <li>Managing and securing stage access, preventing unauthorized individuals from entering performance zones.</li>
+              <li>Coordinating backstage movement to keep rundown timing accurate and all transitions uninterrupted.</li>
+              <li>Guiding the main artist and full crew back to their vehicle safely after the event concludes.</li>
+              <li>Executing all critical field tasks delegated directly by the Leader Liaison Officer.</li>
             </ul>
           </motion.div>
         </motion.div>
