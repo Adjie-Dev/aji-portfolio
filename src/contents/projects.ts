@@ -19,11 +19,11 @@ export const projects: Project[] = [
         image: '/projects/harvest-abadi.jpg',
       },
       {
-        title: 'Buddhayana App',
+        title: 'Aggajinamito Digital',
         description: 'A mobile Buddhist spiritual practice application built with React Native and NativeWind. Features morning puja, evening puja, and meditation modules with audio guidance to help Buddhist practitioners perform daily worship easily. The app is designed with a clean and user-friendly interface to support everyday religious practices.',
         technologies: ['React native', 'Tailwind CSS'],
         githubLink: 'https://github.com/Adjie-Dev/buddhayanaApp.git',
-        demoLink: 'https://expo.dev/accounts/wahyuaji/projects/buddhayana-app/builds/b609078c-9a99-40d6-afab-f63213879570',
+        demoLink: 'https://drive.google.com/drive/u/4/folders/12-k4iym-aiZrkd-wwYWUkOOWbVzSnAnv',
         image: '/projects/buddhayana-digital.jpg',
       },
       {
