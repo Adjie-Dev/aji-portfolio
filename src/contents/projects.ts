@@ -28,8 +28,8 @@ export const projects: Project[] = [
       },
       {
         title: 'History Pedia',
-        description: 'Kelingan Mantan – Coffee Shop Website A simple website built for a coffee shop named Kelingan Mantan, featuring basic pages like Home, Menu, and Contact. Developed using HTML, CSS, and JavaScript with smooth navigation, responsive layout, and interactive elements to enhance user experience.',
-        technologies: ['HTML', 'CSS', 'JavaScript'],
+        description: 'AI chatbot for answering history questions using Llama 3.3 70B. An interactive web application that allows users to ask about history and get answers from AI in Indonesian language.',
+        technologies: ['React.js', 'Flask', 'Python', 'MySQL', 'Cerebras AI', 'Tailwind CSS'],
         githubLink: 'https://github.com/Adjie-Dev/history-pedia-frontend',
         demoLink: 'https://historypedia.vercel.app/',
         image: '/projects/HistoryPedia.png',
