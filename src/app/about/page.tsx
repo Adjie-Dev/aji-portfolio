@@ -79,6 +79,7 @@ export default function About() {
               <li>Node.js</li>
               <li>Express</li>
               <li>Laravel</li>
+              <li>Python</li>
               <li>PostgreSQL</li>
               <li>MongoDB</li>
             </ul>
