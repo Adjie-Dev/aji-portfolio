@@ -27,12 +27,12 @@ export const projects: Project[] = [
         image: '/projects/buddhayana-digital.jpg',
       },
       {
-        title: 'Kedai kopi',
+        title: 'History Pedia',
         description: 'Kelingan Mantan – Coffee Shop Website A simple website built for a coffee shop named Kelingan Mantan, featuring basic pages like Home, Menu, and Contact. Developed using HTML, CSS, and JavaScript with smooth navigation, responsive layout, and interactive elements to enhance user experience.',
         technologies: ['HTML', 'CSS', 'JavaScript'],
-        githubLink: 'https://github.com/WahyuAji11/coffe-shop',
-        demoLink: 'https://adjie-dev.github.io/coffe-shop/',
-        image: '/projects/kedai-kopi.png',
+        githubLink: 'https://github.com/Adjie-Dev/history-pedia-frontend',
+        demoLink: 'https://historypedia.vercel.app/',
+        image: '/projects/HistoryPedia.png',
       },
       {
         title: 'Portfolio Website',
